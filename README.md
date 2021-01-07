@@ -15,8 +15,6 @@
 
 - [SOP](https://FatemehVakili.github.io/SOP/)
 
-- [Certificates](https://FatemehVakili.github.io/certificates/certificates.pdf)
-
 - [JavaScript_Certificate](JavaScript_certificate.pdf)
 
 - [jlord patchwork](patchwork.png)
