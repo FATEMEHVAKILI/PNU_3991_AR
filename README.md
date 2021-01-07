@@ -27,7 +27,7 @@
 - [خلاصه ارزیابی بخش عمومی](https://github.com/FATEMEHVAKILI/PNU_3991_AR/blob/main/_Assessment/_General/FV_GeneralSection_CheckList_AR_3991.pdf)
 
 ### بخش دروس کارشناسی
-- [خلاصه ارزیابی درس طراحی واسط کاربر]()
+- [خلاصه ارزیابی درس طراحی واسط کاربر](https://github.com/FATEMEHVAKILI/PNU_3991_AR/blob/main/_Assessment/_BSc/FV_UserInterfaceDesgin_CheckList_AR_3991.pdf)
 -----------------
 ### Winter Semester Courses 1399/2020
 
