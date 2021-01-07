@@ -15,9 +15,9 @@
 
 - [SOP](https://FatemehVakili.github.io/SOP/)
 
-- [JavaScript_Certificate](JavaScript_certificate.pdf)
+- [JavaScript_Certificate](https://github.com/FATEMEHVAKILI/PNU_3991_AR/blob/main/Certificates/JavaScript_certificate.pdf)
 
-- [jlord patchwork](patchwork.png)
+- [jlord patchwork](https://github.com/FATEMEHVAKILI/PNU_3991_AR/blob/main/Certificates/patchwork.png)
 
 ------------------
 > ارزیابی ها
