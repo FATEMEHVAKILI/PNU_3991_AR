@@ -9,13 +9,13 @@
 
 - [PNU_3991_AR](https://github.com/FATEMEHVAKILI/PNU_3991_AR/)
 
-- [حساب گیت هاب](https://github.com/FatemehVakili/)
+- [GitHub](https://github.com/FatemehVakili/)
 
-- [رزومه](https://fatemehvakili.github.io/)
+- [Resume](https://fatemehvakili.github.io/)
 
-- [انگیزه نامه](https://FatemehVakili.github.io/SOP/)
+- [SOP](https://FatemehVakili.github.io/SOP/)
 
-- [Certificates](https://github.com/FATEMEHVAKILI/PNU_3991_AR/blob/main/Certificates/Certificates.pdf)
+- [Certificates](https://FatemehVakili.github.io/certificates/certificates.pdf)
 
 - [JavaScript_Certificate](JavaScript_certificate.pdf)
 
