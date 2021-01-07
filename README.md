@@ -23,7 +23,7 @@
 > ارزیابی ها
 
 ###  بخش عمومی
-- [ارزیابی رزومه و انگیزه نامه]()
+- [ارزیابی رزومه و انگیزه نامه](https://github.com/FATEMEHVAKILI/PNU_3991_AR/blob/main/_Assessment/_General/FV_CV_CheckList_AR_3991.pdf)
 - [خلاصه ارزیابی بخش عمومی]()
 
 ### بخش دروس کارشناسی
