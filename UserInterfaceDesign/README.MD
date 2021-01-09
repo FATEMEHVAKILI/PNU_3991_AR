@@ -84,9 +84,9 @@
  </tr>
  
  <tr>
- <th  align="center"></th>
- <td  align="center"></td>
- <td  align="center"></td>
+ <th  align="center">https://github.com/bahraminejad98/PNU_3991_AR</th>
+ <td  align="center">https://bahraminejad98.github.io/SOP/</td>
+ <td  align="center">https://bahraminejad98.github.io/Resume/</td>
  <td  align="center">محمد بهرامی نژاد</td>
  <td  align="center">950188073</td>
  <td align="center">7</td>
