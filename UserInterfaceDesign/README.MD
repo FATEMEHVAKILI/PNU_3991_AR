@@ -92,6 +92,15 @@
  <td align="center">7</td>
  </tr>
  
+ <tr>
+ <th  align="center">/th>
+ <td  align="center"></td>
+ <td  align="center"></td>
+ <td  align="center">هادی حقیقت</td>
+ <td  align="center">970087110</td>
+ <td align="center">8</td>
+ </tr>
+ 
 </table>
 
 -------------
