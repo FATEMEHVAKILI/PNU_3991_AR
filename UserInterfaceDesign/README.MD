@@ -178,6 +178,7 @@
     9. ارزیابی
         - [The Do-It-Yourself Guide to Finding and Fixing Usability Problems](http://www.sensible.com/rsme.html)
             - [Demo Usability Test](https://youtu.be/1UCDUOB_aS8)
+         - [Prototype Assessment](https://github.com/JAbozarOid/PNU_3991_AR/blob/main/UserInterfaceDesgin/assessment/PrototypeAssessment.pdf) 
     10. ارائه    
 
 ------------------------
