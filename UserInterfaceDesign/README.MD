@@ -176,8 +176,6 @@
         - [فروشگاه آنلاین فروش لباس با جاوااسکریپت]
             - [لینک پروژه](https://github.com/JAbozarOid/jsamazona_full_ecommerce) 
     9. ارزیابی
-        - [The Do-It-Yourself Guide to Finding and Fixing Usability Problems](http://www.sensible.com/rsme.html)
-            - [Demo Usability Test](https://youtu.be/1UCDUOB_aS8)
          - [Prototype Assessment](https://github.com/FATEMEHVAKILI/PNU_3991_AR/blob/main/UserInterfaceDesign/Prototype%20Assessment/Prototype%20Assessment.pdf) 
     10. ارائه  
          - [Project](https://github.com/JAbozarOid/jsamazona_full_ecommerce)
