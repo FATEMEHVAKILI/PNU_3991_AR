@@ -93,7 +93,7 @@
  </tr>
  
  <tr>
- <th  align="center">/th>
+ <th  align="center"></th>
  <td  align="center"></td>
  <td  align="center"></td>
  <td  align="center">هادی حقیقت</td>
