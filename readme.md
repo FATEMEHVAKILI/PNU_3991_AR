@@ -80,8 +80,10 @@
 <br>
 
 13. [LMT-02_12 محمد بهرامی نژاد ](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_02/12_%D9%85%D8%AD%D9%85%D8%AF%20%D8%A8%D9%87%D8%B1%D8%A7%D9%85%D9%8A%20%D9%86%DA%98%D8%A7%D8%AF)
+<br>
 
-14.[هادی حقیقت 12_UID](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/UserInterfaceDesgin/1322110_01/12_%D9%87%D8%A7%D8%AF%D9%8A%20%D8%AD%D9%82%D9%8A%D9%82%D8%AA)
+14.[UID-12 هادی حقیقت](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/UserInterfaceDesgin/1322110_01/12_%D9%87%D8%A7%D8%AF%D9%8A%20%D8%AD%D9%82%D9%8A%D9%82%D8%AA)
+<br>
 
 -----------------
 <br>
