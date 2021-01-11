@@ -90,7 +90,7 @@
 <br>
 
 
-16.[LMT01-20](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_01/20_%D9%87%D8%A7%D8%AF%D9%8A%20%D8%AD%D9%82%D9%8A%D9%82%D8%AA)
+16.[LMT01-20 هادی حقیقت](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_01/20_%D9%87%D8%A7%D8%AF%D9%8A%20%D8%AD%D9%82%D9%8A%D9%82%D8%AA)
 <br>
 
 -----------------
